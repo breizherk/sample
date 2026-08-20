@@ -1,12 +1,7 @@
 {
-<<<<<<< HEAD
-  "_base": "https://raw.githubusercontent.com/algorave-dave/samples/main/",
-  "cocaina": "cocaina/vidos.wav",
-=======
   "_base": "https://raw.githubusercontent.com/breizherk/sample/main/",
   "cocaina": "cocaina/cocaina.wav",
   "vidos": "vidos/vidos.wav",
->>>>>>> 75e8e83 (ok)
   "overgame": "overgame/overgame.wav",
   "ecotone": "ecotone/ecotone.wav",
   "technologic": "technologic/technologic_vox.wav",
