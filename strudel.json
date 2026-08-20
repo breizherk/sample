@@ -1,0 +1,10 @@
+{
+  "_base": "https://raw.githubusercontent.com/algorave-dave/samples/main/",
+  "cocaina": "cocaina/cocaina.wav",
+  "overgame": "overgame/overgame.wav",
+  "ecotone": "ecotone/ecotone.wav",
+  "technologic": "technologic/technologic_vox.wav",
+  "forget": "forget/forget.wav",
+  "whatuneed": ["whatuneed/beat.wav", "whatuneed/noise.wav", "whatuneed/vox.wav"],
+  "failsafe": ["failsafe/BG_VOX.wav", "failsafe/CHOPS.wav", "failsafe/FX.wav", "failsafe/GANG_VOX.wav", "failsafe/VERSE1.wav", "failsafe/VERSE2.wav"]
+}
